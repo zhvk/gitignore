@@ -45,7 +45,7 @@ gen-external-apklibs
 /*/local.properties
 /*/out
 /*/*/build
-/*/*/production
+# /*/*/production
 .navigation/
 *.ipr
 *.swp
